@@ -1,0 +1,24 @@
+        VARIABLES & COMMENTS
+===================================
+
+ Variables:- Containers to store your data.
+-------------
+
+Comments:-   This is created to Sharind areas.
+----------
+     ex:- //.........., /*.......*/.
+
+main()
+  {
+    // This program is created by rishu
+
+   /* This
+       is
+        mutli level coment
+   */
+
+       int sum = 6;
+     cout<< "Rishu"<< sum ;
+
+      return 0:
+  }

@@ -1,0 +1,141 @@
+       VARIABLES SCOPE & DATA TYPES
+=================================================
+
+
+VARIABLES IN C++
+------------------------
+
+* A variables is  container to hold data.
+* variables can be of various types. Primarily we have
+  these variables types in C++.
+   
+   1. Int
+   2. Float
+   3. Char
+   4. Double
+   5. Boolean
+
+* int sum = 34; meas sum is an integer variable which holds 
+  value 34 in memory.
+
+
+   SYNTAX FOR DECLEARING VARIABLES IN C++
+--------------------------------------------
+
+* Data_TypeVariable_name=value;
+
+* Ex. Int a=4, b=6;
+
+* Based on scope, variable can be classified into two types:
+   
+   1. Local variables 
+   2. Global variables
+
+     
+    VARIABLES SCOPE
+   -------------------
+
+* Scope of a variable is the region in code where the existance
+  of variable is valid.
+
+* Based on scope we have local and global variable in c+=
+
+* Local variables: Local variables are declered inside the 
+  ---------------  braces of any fuction can be accessed only 
+                   from there.
+
+* Global variables: Global variables are decleared outside any 
+  ----------------- function and can be accessed from anywhere.
+
+Q. can global and local variable have same name in c++?
+    yes , we will see!
+
+
+
+
+   DATA TYPES
+----------------
+ * Data types define the type of data variable can hold , 
+   for example an integer variable can hold integer data,
+   a charchter type variable can hold charchter data etc.
+
+*  Data types in c++ are categorised in three groups:
+
+   * Built-in            
+   * user-defined
+   * Derived
+
+ BUILT IN DATA TYPES
+---------------------
+
+* Int      0,1,2,3.......integer.
+
+* Float    1.22, 1.33, ....... Decimal number of low presion.
+
+* Char      'D', 'G', 'L',.......Charchter.
+
+* Double   3.34544, 5.768876, .......Deciaml no.of High persion.
+
+* Bool     0, 1 (false, true).
+
+
+
+USER DEFINED DATA TYPES
+-------------------------
+
+* Strut
+* Union
+* Enum
+
+
+DERIVED DATA TYPES
+-------------------
+
+* Array
+* Function
+* Pointer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+
+
